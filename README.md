@@ -73,23 +73,6 @@ The following supermarket items can be used to test the billing system:
 | 9 | Soft Drink | 100 |
 | 10 | Juice | 150 |
 
-🛍️ Sample Item List
-
-The following supermarket items can be used to test the billing system:
-
-| No. | Item Name | Example Price (₹) |
-|-----|-----------|-------------------:|
-| 1 | Rice | 500 |
-| 2 | Wheat Flour | 450 |
-| 3 | Pulses | 180 |
-| 4 | Milk | 60 |
-| 5 | Curd | 80 |
-| 6 | Cheese | 250 |
-| 7 | Shampoo | 350 |
-| 8 | Soap | 50 |
-| 9 | Soft Drink | 100 |
-| 10 | Juice | 150 |
-
 Item total = Quantity * Price
 
 🎓 Learning Outcomes
